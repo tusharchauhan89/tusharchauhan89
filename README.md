@@ -17,7 +17,7 @@ I’m **Tushar Chauhan**, a **B.Tech CSE student at UIT Shimla, HPU**, and a pas
 
 ## 📫 Let’s Connect!  
 - **Email**: [tusharchauhan9625@gmail.com](mailto:tusharchauhan9625@gmail.com)  
-- **Portfolio**: [tusharchauhanportfolio.netlify.app](https://tusharchauhanportfolio.netlify.app)  
+- **Portfolio**: [tusharchauhanportfolio.netlify.app](https://tusharchauhansportfolio.netlify.app)  
 - **LinkedIn**: [linkedin.com/in/tushar-chauhan-54b0ab296](https://www.linkedin.com/in/tushar-chauhan-54b0ab296/)  
 
 
