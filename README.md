@@ -6,7 +6,7 @@ I’m **Tushar Chauhan**, a **B.Tech CSE student at UIT Shimla, HPU**, and a pas
 - 🎯 **Engineering Innovator** | Creating unconventional projects to solve real-world problems.  
 
 ## 💼 Skills  
-- **Languages**: Python, JavaScript  
+- **Languages**: Python, JavaScript ,Flask 
 - **Web Tech**:HTML5, CSS3  
 - **Tools**:  MySQL  
 
