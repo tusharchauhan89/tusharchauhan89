@@ -11,7 +11,8 @@ I’m **Tushar Chauhan**, a **B.Tech CSE student at UIT Shimla, HPU**, and a pas
 - **Tools**:  MySQL  
 
 ## 🌟 Highlights  
-- 🏗️ Worked on projects like **Room Scout**, simplifying accommodation hunting for students.  
+- 🏗️ Worked on projects like **Room Scout**, simplifying accommodation hunting for students.
+-  🏗️ Worked on projects like **Eommerce Website**, Developed a secure e-commerce web application using Flask and MySQL with integrated PayPal payments and advanced security measures.  
 - 🌈 Currently enhancing my skills in DSA and solving LeetCode challenges daily.  
 - 📚 Preparing for placements with a focus on technical, aptitude, and HR interview skills.  
 
