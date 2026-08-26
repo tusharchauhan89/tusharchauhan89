@@ -65,7 +65,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [My Portfolio](https://tusharchauhansportfolio.netlify.app)  
+- 🌐 [My Portfolio](https://tusharchauhann.netlify.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tushar-chauhan-54b0ab296/)  
 - 📧 tusharchauhan9625@gmail.com  
 
