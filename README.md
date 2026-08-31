@@ -92,10 +92,11 @@ I believe in **learning by building**. Whether it's a secure e-commerce platform
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharchauhan89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharchauhan89&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=tusharchauhan89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=3" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tusharchauhan89&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" height="165" alt="Top Languages"/>
+</p>
 
 ---
 
