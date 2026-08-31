@@ -1,96 +1,109 @@
-<h1 align="center">Hey 👋, I'm Tushar Chauhan</h1>
+<div align="center">
+  
+  <!-- Neon Title -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=1&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Tushar+Chauhan" alt="Typing SVG" />
+  </h1>
 
-<p align="center">
-  <strong>Full-Stack Developer</strong> · Cybersecurity Explorer · Python + IoT Enthusiast
-</p>
+  <!-- Neon Subtitle Banner -->
+  <p>
+    <img src="https://img.shields.io/badge/Building%20scalable%20solutions.%20Shipping%20the%20future.%20%F0%9F%9A%80-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=00F0FF" alt="tagline" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+secure+%26+scalable+apps;Python+%2B+IoT+%7C+FastAPI+%7C+React;Code.+Learn.+Ship." alt="Typing SVG" />
-</p>
+  <br>
 
----
+  <!-- TECH STACK -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=300&lines=TECH+STACK" alt="TECH STACK" />
+  </h2>
 
-### 🚀 About Me
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </p>
 
-I'm a developer who loves turning ideas into clean, secure, and practical systems.  
-Currently focused on **Python-powered IoT solutions**, modern backend APIs, and full-stack apps with strong security practices.
+  <br>
 
-- 🧠 Exploring Python + IoT for automation & real-time data
-- 🛡️ Applying cybersecurity principles (OWASP, secure coding, WAF)
-- ⚡ Building with **FastAPI**, **Supabase**, **PostgreSQL** & **React**
-- 🛠️ Prefer lightweight, reliable tech stacks that actually ship
+  <!-- ABOUT ME -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=250&lines=ABOUT+ME" alt="ABOUT ME" />
+  </h2>
 
----
+  <p align="center">
+    Backend engineer and full-stack developer who loves building fast, reliable and modern applications.<br>
+    I specialize in <b>Python, FastAPI and React</b> ecosystems with a strong focus on performance,<br>
+    scalability and developer experience.<br><br>
+    Always exploring new technologies and turning ideas into impactful products.<br>
+    Passionate about clean code, system design, open source and <b>cyberpunk aesthetics</b>. ⚡
+  </p>
 
-### 💡 What I Bring
+  <br>
 
-- Fast learner who enjoys reverse-engineering systems
-- Strong foundation in backend design and security
-- Clear communicator with collaborative experience
-- Obsessed with clean, modular, and maintainable code
-- Driven by a **learning-by-building** mindset
+  <!-- CURRENTLY FOCUSED ON -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=CURRENTLY+FOCUSED+ON" alt="CURRENTLY FOCUSED ON" />
+  </h2>
 
----
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/ios-filled/50/00F0FF/rocket.png" width="40"/><br>
+        <b>High Performance<br>APIs</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/ios-filled/50/00F0FF/shield.png" width="40"/><br>
+        <b>Secure & Scalable<br>Architecture</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/ios-filled/50/00F0FF/database.png" width="40"/><br>
+        <b>Real-time<br>Applications</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/ios-filled/50/00F0FF/source-code.png" width="40"/><br>
+        <b>Developer<br>Experience</b>
+      </td>
+    </tr>
+  </table>
 
-### 🛠️ Things I Love Building
+  <br>
 
-- RESTful APIs & backend systems (**Flask** / **FastAPI**)
-- Full-stack apps with **React** + modern backends
-- Real-time dashboards for sensor / IoT data
-- Secure web applications following OWASP best practices
-- Python tools, automation scripts & voice assistants
-- Projects that blend logic, design, and real-world purpose
+  <!-- GITHUB STATS (Neon Theme) -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=300&lines=GITHUB+STATS" alt="GITHUB STATS" />
+  </h2>
 
----
+  <p>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=tusharchauhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=A855F7&text_color=FFFFFF" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharchauhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
+  </p>
 
-### 📚 Learning & Experience
+  <br>
 
-- Internship: Ethical Hacking & Penetration Testing (C-DAC Noida)
-- Built a secure e-commerce platform (HTTPS, PayPal, CSRF protection, WAF)
-- Self-taught: Flask, REST APIs, JWT Auth, deployment
-- Currently diving into: **MQTT**, Python for embedded systems, WebSockets, **Supabase**, **PostgreSQL**, **FastAPI**, and **React**
+  <!-- CONNECT WITH ME -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=350&lines=LET'S+CONNECT" alt="LET'S CONNECT" />
+  </h2>
 
----
+  <p>
+    <a href="https://tusharchauhann.netlify.app">
+      <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00F0FF&labelColor=0A0A0A&color=00F0FF" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/tushar-chauhan-54b0ab296/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0A0A0A&color=00F0FF" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:tusharchauhan9625@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0A0A&color=00F0FF" alt="Email"/>
+    </a>
+  </p>
 
-### 🧰 Tech Stack
+  <br>
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <!-- Footer -->
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9A%A1%20%26%20%E2%9A%A1%20by%20Tushar%20Chauhan-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=A855F7" />
+  </p>
 
-**Databases & Backend**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Frontend & Tools**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://tusharchauhann.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-chauhan-54b0ab296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tusharchauhan9625@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ Thanks for stopping by! Always open to learning, collaborating, and building something impactful.
-</p>
+</div>
