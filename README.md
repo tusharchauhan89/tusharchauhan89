@@ -88,7 +88,7 @@
   </h2>
 
   <p>
-    <img src="https://streak-stats.demolab.com?user=tusharchauhan89&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=A855F7&currStreakLabel=00F0FF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=tusharchauhan89&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=A855F7&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=FFFFFF" alt="GitHub Streak" />
   </p>
 
   <br>
@@ -99,7 +99,7 @@
   </h2>
 
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=tusharchauhan89&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tusharchauhan89&theme=onedark&no-frame=true&column=6&margin-w=15" alt="Trophies" />
   </p>
 
   <br>
