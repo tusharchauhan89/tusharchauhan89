@@ -8,9 +8,7 @@
   </p>
 
   <p>
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Code.+Secure.+Ship.;Building+Python+%2B+IoT+solutions;Learning+by+building+real+projects">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Code.+Secure.+Ship.;Building+Python+%2B+IoT+solutions;Learning+by+building+real+projects" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Code.+Secure.+Ship.;Building+Python+%2B+IoT+solutions;Learning+by+building+real+projects" alt="Typing SVG" />
   </p>
 
   <p>
@@ -65,7 +63,7 @@ I believe in **learning by building**. Whether it's a secure e-commerce platform
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Others**  
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -90,18 +88,15 @@ I believe in **learning by building**. Whether it's a secure e-commerce platform
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <p align="center">
- 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tusharchauhan89&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=3" height="165" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate, discuss ideas, or just say hi!
 
 - **Portfolio** → [tusharchauhann.netlify.app](https://tusharchauhann.netlify.app)
 - **LinkedIn** → [Tushar Chauhan](https://www.linkedin.com/in/tushar-chauhan-54b0ab296/)
