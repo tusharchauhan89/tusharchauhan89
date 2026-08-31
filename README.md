@@ -70,14 +70,36 @@
 
   <br>
 
-  <!-- GITHUB STATS (Neon Theme) -->
+  <!-- GITHUB STATS -->
   <h2>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=300&lines=GITHUB+STATS" alt="GITHUB STATS" />
   </h2>
 
   <p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=tusharchauhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=A855F7&text_color=FFFFFF" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharchauhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=tusharchauhan89&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=A855F7&text_color=FFFFFF" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharchauhan89&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
+  </p>
+
+  <br>
+
+  <!-- GITHUB STREAK -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=300&lines=GITHUB+STREAK" alt="GITHUB STREAK" />
+  </h2>
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=tusharchauhan89&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=A855F7&currStreakLabel=00F0FF" alt="GitHub Streak" />
+  </p>
+
+  <br>
+
+  <!-- TROPHY SECTION -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=A855F7&center=true&vCenter=true&width=250&lines=TROPHIES" alt="TROPHIES" />
+  </h2>
+
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=tusharchauhan89&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" alt="Trophies" />
   </p>
 
   <br>
